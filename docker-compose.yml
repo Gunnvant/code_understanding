@@ -1,0 +1,53 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: ${DB_NAME:-etldb}
+      POSTGRES_USER: ${DB_USER:-etl}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-etl123}
+    ports:
+      - "${DB_PORT:-5433}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-etl} -d ${DB_NAME:-etldb}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  etl:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-etldb}
+      DB_USER: ${DB_USER:-etl}
+      DB_PASSWORD: ${DB_PASSWORD:-etl123}
+      ETL_TARGET: postgres
+      ETL_INPUT: /data/clientes.csv
+    volumes:
+      - ./clientes.csv:/data/clientes.csv:ro
+      - ./logs:/app/logs
+      - ./rejected:/app/rejected
+      - ./snapshots:/app/snapshots
+
+  dashboard:
+    build: .
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-etldb}
+      DB_USER: ${DB_USER:-etl}
+      DB_PASSWORD: ${DB_PASSWORD:-etl123}
+      ETL_TARGET: postgres
+    command: ["streamlit", "run", "dashboard/app.py", "--server.address", "0.0.0.0", "--server.port", "8501"]
+    ports:
+      - "8501:8501"
+
+volumes:
+  pgdata:

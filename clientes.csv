@@ -1,0 +1,301 @@
+id,nome,email,telefone,cidade,valor_compra,data_compra
+1,Lucas Mendes,lucas@email.com,14929345525,BAURU,767.0,2024/01/19
+2,,juliana@gmail.com,(14) 91320-4752,BAURU,240.55,2024/01/08
+3,Lucas Mendes,lucas@yahoo.com.br,,São Paulo,1490.52,2024-01-20
+4,maria souza,maria@gmail.com,(14) 95537-4050,CAMPINAS,R$ 221.78,2024/01/28
+5,JULIANA FERREIRA,juliana@email.com,14 92697-5826,são paulo,860.46,2024-01-17
+6,JULIANA FERREIRA,juliana@gmail.com,(14) 91580-6718,campinas,R$ 333.24,2024-01-14
+7,  Fernanda Oliveira  ,fernanda@gmail.com,,são paulo,,2024-01-08
+8,PEDRO COSTA,pedro@,(14) 97127-8804,CAMPINAS,,2024-01-22
+9,Lucas Mendes,lucas@email.com,14950109628,bauru,R$ 1154.75,2024/01/06
+10,PEDRO COSTA,pedro@gmail.com,(14) 96267-6176,são paulo,633.96,2024-01-18
+11,maria souza,maria@yahoo.com.br,,são paulo,,2024-01-03
+12,Ana Lima,ana@gmail.com,14 93843-5648,CAMPINAS,,2024-01-26
+13,Rafael Alves,rafael@email.com,,São Paulo,721.46,2024-01-09
+14,maria souza,maria@yahoo.com.br,14999049013,BAURU,1203.62,2024-01-28
+15,Rafael Alves,rafael@email.com,14991433468,BAURU,1334.9,2024-01-10
+16,Ana Lima,ana@hotmail.com,14 96508-3043,BAURU,,2024-01-07
+17,Lucas Mendes,lucas@hotmail.com,,são paulo,831.48,2024/01/16
+18,beatriz costa,beatriz@yahoo.com.br,14921932079,Ribeirão Preto,R$ 1198.77,2024-01-07
+19,,joão@email.com,,Ribeirão Preto,,2024-01-01
+19,João Silva,joão@email.com,,Ribeirão Preto,,2024-01-01
+21,Rafael Alves,rafael@gmail.com,,BAURU,R$ 742.5,2024-01-09
+22,maria souza,maria@hotmail.com,14 97011-9744,são paulo,R$ 556.18,2024/01/08
+23,João Silva,joão@yahoo.com.br,,CAMPINAS,625.02,2024-01-14
+24,Lucas Mendes,lucas@hotmail.com,14992043077,BAURU,,2024/01/08
+25,Ana Lima,ana@hotmail.com,14 91701-8174,CAMPINAS,84.23,2024-01-23
+26,CARLOS SANTOS,carlos@hotmail.com,(14) 97952-8628,Ribeirão Preto,1044.81,2024/01/04
+27,CARLOS SANTOS,carlos@gmail.com,14 93188-2539,bauru,190.07,2024/01/27
+28,Lucas Mendes,lucas@hotmail.com,14 94562-6746,Ribeirão Preto,462.76,2024-01-17
+29,JULIANA FERREIRA,juliana@email.com,,Ribeirão Preto,R$ 693.81,2024-01-17
+30,PEDRO COSTA,pedro@,(14) 92285-3353,são paulo,R$ 569.45,2024-01-22
+31,maria souza,maria@gmail.com,14 93929-1796,Ribeirão Preto,R$ 581.31,2024/01/13
+32,maria souza,maria@email.com,,BAURU,586.12,2024/01/17
+33,João Silva,joão@hotmail.com,,bauru,1209.64,2024/01/27
+34,PEDRO COSTA,pedro@email.com,,Ribeirão Preto,R$ 511.51,2024/01/04
+35,PEDRO COSTA,pedro@,14 98466-6319,Ribeirão Preto,711.66,2024/01/15
+36,João Silva,joão@email.com,,São Paulo,1137.43,2024-01-04
+37,Rafael Alves,rafael@email.com,14 92068-2856,Ribeirão Preto,923.13,2024/01/28
+38,JULIANA FERREIRA,juliana@email.com,14 93921-4149,são paulo,R$ 786.31,2024/01/13
+39,beatriz costa,beatriz@hotmail.com,,bauru,1259.1,2024/01/26
+39,,beatriz@hotmail.com,,bauru,1259.1,2024/01/26
+41,beatriz costa,beatriz@email.com,(14) 94068-3416,são paulo,,2024-01-11
+42,maria souza,maria@yahoo.com.br,14968984100,bauru,R$ 758.14,2024-01-07
+43,Lucas Mendes,lucas@email.com,(14) 95620-3532,campinas,R$ 121.69,2024-01-27
+44,CARLOS SANTOS,carlos@hotmail.com,(14) 98933-4561,CAMPINAS,147.79,2024-01-22
+45,maria souza,maria@gmail.com,,Ribeirão Preto,356.04,2024-01-20
+46,João Silva,joão@gmail.com,(14) 93629-2704,campinas,,2024/01/10
+47,Rafael Alves,rafael@email.com,(14) 98432-1949,Ribeirão Preto,499.51,2024/01/01
+48,  Fernanda Oliveira  ,fernanda@yahoo.com.br,(14) 94361-2948,CAMPINAS,1005.89,2024/01/10
+49,Lucas Mendes,lucas@yahoo.com.br,(14) 94270-9097,São Paulo,1151.83,2024/01/13
+50,Ana Lima,ana@email.com,14 91992-7182,BAURU,1476.21,2024/01/01
+51,João Silva,joão@email.com,14959957070,bauru,1155.09,2024/01/15
+52,Lucas Mendes,lucas@hotmail.com,14959975205,campinas,,2024/01/19
+53,maria souza,maria@gmail.com,(14) 97102-6839,bauru,R$ 1257.49,2024-01-26
+54,beatriz costa,beatriz@email.com,,CAMPINAS,,2024/01/18
+55,beatriz costa,beatriz@,14 95903-8580,campinas,805.71,2024/01/02
+56,,maria@email.com,,CAMPINAS,,2024/01/19
+57,CARLOS SANTOS,carlos@gmail.com,14945819341,são paulo,R$ 887.26,2024/01/02
+58,João Silva,joão@yahoo.com.br,(14) 97608-2264,Ribeirão Preto,847.74,2024-01-10
+59,Rafael Alves,rafael@,,CAMPINAS,R$ 1406.83,2024-01-07
+59,Rafael Alves,rafael@,,CAMPINAS,R$ 1406.83,2024-01-07
+61,Rafael Alves,rafael@email.com,,São Paulo,385.29,2024/01/21
+62,Rafael Alves,rafael@hotmail.com,14 98014-9823,bauru,R$ 518.1,2024/01/15
+63,,beatriz@hotmail.com,(14) 97113-2999,bauru,1123.78,2024/01/06
+64,maria souza,maria@,(14) 98752-1353,são paulo,373.15,2024-01-05
+65,PEDRO COSTA,pedro@,14998445157,bauru,R$ 79.43,2024-01-25
+66,maria souza,maria@yahoo.com.br,,campinas,R$ 968.77,2024-01-20
+67,maria souza,maria@yahoo.com.br,14947496271,São Paulo,73.22,2024-01-13
+68,João Silva,joão@hotmail.com,,CAMPINAS,116.54,2024/01/11
+69,Ana Lima,ana@,14 96295-1253,BAURU,433.64,2024/01/18
+70,JULIANA FERREIRA,juliana@email.com,,bauru,R$ 466.6,2024-01-01
+71,  Fernanda Oliveira  ,fernanda@yahoo.com.br,(14) 97557-8638,BAURU,51.41,2024/01/05
+72,JULIANA FERREIRA,juliana@email.com,14922542014,Ribeirão Preto,773.52,2024-01-09
+73,Rafael Alves,rafael@email.com,14930825600,CAMPINAS,,2024/01/05
+74,Rafael Alves,rafael@hotmail.com,(14) 95896-9936,CAMPINAS,1326.18,2024-01-27
+75,  Fernanda Oliveira  ,fernanda@email.com,14 93036-5506,bauru,R$ 639.7,2024-01-02
+76,beatriz costa,beatriz@email.com,,bauru,,2024-01-25
+77,Rafael Alves,rafael@yahoo.com.br,14967488761,são paulo,,2024/01/25
+78,Rafael Alves,rafael@gmail.com,(14) 97163-2537,são paulo,818.93,2024/01/07
+79,Ana Lima,ana@,14 93098-7122,Ribeirão Preto,132.71,2024-01-16
+79,Ana Lima,ana@,14 93098-7122,Ribeirão Preto,132.71,2024-01-16
+81,Ana Lima,ana@hotmail.com,(14) 99148-8173,bauru,,2024/01/09
+82,maria souza,maria@gmail.com,,são paulo,1214.8,2024-01-27
+83,JULIANA FERREIRA,juliana@email.com,14 92954-3834,BAURU,1284.32,2024/01/20
+84,João Silva,joão@email.com,14952011136,campinas,1146.59,2024/01/04
+85,PEDRO COSTA,pedro@gmail.com,14976722140,São Paulo,706.51,2024/01/19
+86,maria souza,maria@yahoo.com.br,(14) 98440-5387,bauru,,2024-01-17
+87,beatriz costa,beatriz@yahoo.com.br,(14) 96415-1311,São Paulo,479.4,2024-01-20
+88,João Silva,joão@,,são paulo,184.49,2024/01/17
+89,PEDRO COSTA,pedro@hotmail.com,,BAURU,,2024-01-20
+90,CARLOS SANTOS,carlos@email.com,,são paulo,R$ 1471.75,2024/01/12
+91,PEDRO COSTA,pedro@hotmail.com,14 91236-6178,São Paulo,R$ 1450.62,2024-01-02
+92,Rafael Alves,rafael@hotmail.com,14 99649-2788,são paulo,,2024/01/21
+93,João Silva,joão@yahoo.com.br,(14) 95022-5867,bauru,,2024-01-25
+94,CARLOS SANTOS,carlos@hotmail.com,,CAMPINAS,,2024-01-03
+95,  Fernanda Oliveira  ,fernanda@email.com,,Ribeirão Preto,594.11,2024/01/15
+96,João Silva,joão@email.com,14988431126,CAMPINAS,608.6,2024/01/27
+97,PEDRO COSTA,pedro@hotmail.com,14959724980,Ribeirão Preto,,2024/01/26
+98,maria souza,maria@hotmail.com,14928321719,São Paulo,,2024/01/17
+99,Ana Lima,ana@hotmail.com,,São Paulo,,2024-01-15
+99,Ana Lima,ana@hotmail.com,,São Paulo,,2024-01-15
+101,PEDRO COSTA,pedro@gmail.com,(14) 92679-6267,são paulo,640.31,2024/01/25
+102,beatriz costa,beatriz@gmail.com,,Ribeirão Preto,R$ 539.89,2024-01-06
+103,beatriz costa,beatriz@yahoo.com.br,14969601118,campinas,,2024-01-01
+104,JULIANA FERREIRA,juliana@gmail.com,(14) 96566-2342,Ribeirão Preto,R$ 1073.41,2024-01-01
+105,Lucas Mendes,lucas@,(14) 95013-1203,campinas,R$ 1136.19,2024/01/12
+106,beatriz costa,beatriz@email.com,14 98389-9948,campinas,700.73,2024-01-27
+107,CARLOS SANTOS,carlos@yahoo.com.br,(14) 96382-6045,Ribeirão Preto,,2024-01-07
+108,JULIANA FERREIRA,juliana@email.com,14 91005-8729,bauru,R$ 1276.48,2024/01/19
+109,  Fernanda Oliveira  ,fernanda@,(14) 92327-1055,Ribeirão Preto,,2024-01-17
+110,CARLOS SANTOS,carlos@yahoo.com.br,,CAMPINAS,,2024/01/14
+111,beatriz costa,beatriz@hotmail.com,14 97614-9814,São Paulo,R$ 825.62,2024/01/04
+112,beatriz costa,beatriz@gmail.com,(14) 93358-4332,campinas,R$ 613.98,2024/01/16
+113,Lucas Mendes,lucas@hotmail.com,14911605626,campinas,263.82,2024-01-08
+114,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14 99137-6409,BAURU,R$ 356.51,2024/01/04
+115,PEDRO COSTA,pedro@email.com,14987029886,CAMPINAS,229.64,2024/01/26
+116,beatriz costa,beatriz@yahoo.com.br,14925969051,Ribeirão Preto,272.51,2024/01/01
+117,Rafael Alves,rafael@hotmail.com,,Ribeirão Preto,480.94,2024/01/24
+118,Ana Lima,ana@gmail.com,14 99452-1941,Ribeirão Preto,R$ 719.37,2024-01-16
+119,maria souza,maria@,,BAURU,1360.3,2024-01-18
+119,maria souza,maria@,,BAURU,1360.3,2024-01-18
+121,CARLOS SANTOS,carlos@,,são paulo,,2024/01/07
+122,João Silva,joão@hotmail.com,14924439581,São Paulo,1310.67,2024/01/25
+123,,juliana@email.com,,bauru,1100.03,2024-01-27
+124,beatriz costa,beatriz@,14 91701-9700,BAURU,294.59,2024/01/24
+125,João Silva,joão@yahoo.com.br,,campinas,278.83,2024-01-07
+126,PEDRO COSTA,pedro@hotmail.com,(14) 91362-9291,BAURU,R$ 797.17,2024-01-24
+127,CARLOS SANTOS,carlos@yahoo.com.br,14 95876-4627,Ribeirão Preto,,2024-01-22
+128,Ana Lima,ana@,14982865241,campinas,626.34,2024/01/22
+129,beatriz costa,beatriz@email.com,14 95526-6514,Ribeirão Preto,,2024-01-14
+130,Lucas Mendes,lucas@,14973662852,campinas,321.63,2024-01-22
+131,JULIANA FERREIRA,juliana@,14 91600-9651,BAURU,340.65,2024/01/26
+132,beatriz costa,beatriz@email.com,14 96027-6594,São Paulo,1150.34,2024-01-21
+133,Ana Lima,ana@email.com,(14) 93505-4835,CAMPINAS,1119.21,2024/01/03
+134,JULIANA FERREIRA,juliana@yahoo.com.br,14945347014,campinas,968.34,2024-01-04
+135,maria souza,maria@yahoo.com.br,,BAURU,1017.11,2024/01/27
+136,JULIANA FERREIRA,juliana@yahoo.com.br,,Ribeirão Preto,476.32,2024/01/09
+137,Ana Lima,ana@yahoo.com.br,(14) 94283-8916,campinas,208.21,2024/01/14
+138,beatriz costa,beatriz@email.com,14918177715,são paulo,1208.44,2024/01/06
+139,CARLOS SANTOS,carlos@email.com,14 93535-5681,BAURU,1150.04,2024/01/05
+139,CARLOS SANTOS,carlos@email.com,14 93535-5681,BAURU,1150.04,2024/01/05
+141,beatriz costa,beatriz@hotmail.com,14 93375-4299,Ribeirão Preto,573.97,2024/01/19
+142,Lucas Mendes,lucas@,14 97023-4650,são paulo,,2024/01/15
+143,Ana Lima,ana@yahoo.com.br,14 94808-3300,São Paulo,952.48,2024/01/26
+144,JULIANA FERREIRA,juliana@hotmail.com,14974573458,São Paulo,1337.67,2024-01-14
+145,João Silva,joão@email.com,14982515738,CAMPINAS,95.22,2024/01/28
+146,João Silva,joão@gmail.com,,Ribeirão Preto,R$ 1295.52,2024-01-04
+147,  Fernanda Oliveira  ,fernanda@email.com,14982294637,São Paulo,998.76,2024-01-16
+148,CARLOS SANTOS,carlos@yahoo.com.br,14 98788-2534,campinas,,2024/01/26
+149,Ana Lima,ana@yahoo.com.br,14 91621-3407,Ribeirão Preto,R$ 267.98,2024/01/23
+150,  Fernanda Oliveira  ,fernanda@,14986451280,bauru,1418.98,2024-01-10
+151,  Fernanda Oliveira  ,fernanda@email.com,14962444413,São Paulo,421.32,2024-01-14
+152,maria souza,maria@hotmail.com,14 91386-3051,São Paulo,204.89,2024-01-11
+153,maria souza,maria@gmail.com,14928946772,são paulo,R$ 551.3,2024-01-02
+154,Rafael Alves,rafael@hotmail.com,14943371196,São Paulo,882.92,2024/01/16
+155,maria souza,maria@email.com,14 98025-7760,campinas,R$ 395.01,2024/01/16
+156,PEDRO COSTA,pedro@yahoo.com.br,14931796152,São Paulo,1342.21,2024-01-01
+157,Lucas Mendes,lucas@hotmail.com,(14) 96626-5694,são paulo,486.97,2024/01/25
+158,Rafael Alves,rafael@,14979966706,São Paulo,R$ 702.16,2024-01-23
+159,  Fernanda Oliveira  ,fernanda@,14953459888,Ribeirão Preto,R$ 611.32,2024/01/18
+159,,fernanda@,14953459888,Ribeirão Preto,R$ 611.32,2024/01/18
+161,JULIANA FERREIRA,juliana@hotmail.com,14926127544,são paulo,,2024/01/04
+162,JULIANA FERREIRA,juliana@gmail.com,14 95211-6427,São Paulo,1211.91,2024/01/09
+163,Rafael Alves,rafael@yahoo.com.br,(14) 92808-7107,campinas,,2024/01/19
+164,Lucas Mendes,lucas@email.com,,bauru,1311.8,2024-01-26
+165,  Fernanda Oliveira  ,fernanda@yahoo.com.br,(14) 94061-5282,bauru,1325.28,2024/01/12
+166,JULIANA FERREIRA,juliana@,14 94982-3964,CAMPINAS,,2024-01-07
+167,CARLOS SANTOS,carlos@email.com,14 92023-6408,bauru,244.08,2024-01-25
+168,João Silva,joão@hotmail.com,(14) 95465-6812,bauru,R$ 1470.72,2024-01-08
+169,João Silva,joão@email.com,14 92942-1218,campinas,,2024/01/26
+170,  Fernanda Oliveira  ,fernanda@email.com,(14) 96951-5842,são paulo,222.21,2024-01-26
+171,  Fernanda Oliveira  ,fernanda@hotmail.com,,são paulo,173.38,2024-01-12
+172,JULIANA FERREIRA,juliana@yahoo.com.br,(14) 97249-5731,campinas,,2024-01-26
+173,JULIANA FERREIRA,juliana@,,são paulo,R$ 397.49,2024-01-13
+174,João Silva,joão@hotmail.com,14 93717-8814,São Paulo,802.86,2024-01-21
+175,PEDRO COSTA,pedro@,(14) 92825-3234,São Paulo,R$ 610.58,2024/01/09
+176,CARLOS SANTOS,carlos@gmail.com,,bauru,,2024/01/09
+177,maria souza,maria@yahoo.com.br,14928541415,são paulo,,2024/01/02
+178,Ana Lima,ana@hotmail.com,14960482724,campinas,R$ 847.72,2024-01-14
+179,maria souza,maria@gmail.com,14965196382,BAURU,781.88,2024-01-06
+179,maria souza,maria@gmail.com,14965196382,BAURU,781.88,2024-01-06
+181,JULIANA FERREIRA,juliana@gmail.com,(14) 97620-8405,Ribeirão Preto,940.65,2024-01-04
+182,PEDRO COSTA,pedro@hotmail.com,,CAMPINAS,1365.85,2024/01/15
+183,  Fernanda Oliveira  ,fernanda@gmail.com,14 95606-6007,campinas,,2024/01/14
+184,Ana Lima,ana@yahoo.com.br,,campinas,1414.23,2024-01-02
+185,Rafael Alves,rafael@,(14) 97829-6405,Ribeirão Preto,R$ 363.43,2024/01/10
+186,maria souza,maria@,14943565665,são paulo,,2024-01-19
+187,João Silva,joão@,,campinas,,2024/01/12
+188,PEDRO COSTA,pedro@,(14) 97124-6461,São Paulo,382.03,2024-01-07
+189,Lucas Mendes,lucas@email.com,14 99492-6748,São Paulo,145.25,2024-01-16
+190,PEDRO COSTA,pedro@,,Ribeirão Preto,,2024-01-08
+191,Ana Lima,ana@gmail.com,(14) 91813-6530,Ribeirão Preto,,2024-01-04
+192,Ana Lima,ana@,14 92945-1351,CAMPINAS,R$ 142.6,2024-01-04
+193,Lucas Mendes,lucas@gmail.com,(14) 91104-3194,BAURU,R$ 558.17,2024/01/27
+194,Lucas Mendes,lucas@yahoo.com.br,(14) 95148-5973,São Paulo,782.73,2024-01-06
+195,,carlos@,14 92473-5333,CAMPINAS,1128.71,2024/01/28
+196,Lucas Mendes,lucas@yahoo.com.br,,são paulo,343.58,2024-01-14
+197,PEDRO COSTA,pedro@yahoo.com.br,(14) 93520-4598,CAMPINAS,R$ 1035.96,2024-01-15
+198,maria souza,maria@hotmail.com,14930246062,São Paulo,,2024-01-16
+199,beatriz costa,beatriz@email.com,14 92715-8655,São Paulo,R$ 1421.7,2024-01-27
+199,beatriz costa,beatriz@email.com,14 92715-8655,São Paulo,R$ 1421.7,2024-01-27
+201,CARLOS SANTOS,carlos@,14918688736,são paulo,705.83,2024/01/12
+202,CARLOS SANTOS,carlos@email.com,(14) 97866-1197,Ribeirão Preto,R$ 1090.27,2024/01/04
+203,JULIANA FERREIRA,juliana@email.com,14938285291,são paulo,,2024/01/01
+204,beatriz costa,beatriz@yahoo.com.br,14 91797-4645,CAMPINAS,,2024-01-24
+205,Lucas Mendes,lucas@gmail.com,,campinas,565.4,2024/01/19
+206,JULIANA FERREIRA,juliana@hotmail.com,,campinas,R$ 1480.67,2024-01-07
+207,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14 98201-8742,BAURU,1095.48,2024-01-10
+208,João Silva,joão@,(14) 94828-3521,BAURU,226.07,2024/01/11
+209,PEDRO COSTA,pedro@gmail.com,,Ribeirão Preto,440.15,2024-01-21
+210,JULIANA FERREIRA,juliana@hotmail.com,(14) 97588-1155,campinas,,2024/01/23
+211,beatriz costa,beatriz@gmail.com,,Ribeirão Preto,,2024-01-10
+212,Ana Lima,ana@yahoo.com.br,(14) 96979-7314,são paulo,,2024-01-12
+213,,fernanda@email.com,,CAMPINAS,1158.97,2024-01-15
+214,Lucas Mendes,lucas@yahoo.com.br,14 98597-6417,CAMPINAS,,2024/01/26
+215,maria souza,maria@,14931725742,campinas,R$ 859.38,2024/01/02
+216,CARLOS SANTOS,carlos@yahoo.com.br,,campinas,1377.64,2024/01/08
+217,Ana Lima,ana@email.com,14 92211-5165,são paulo,800.68,2024/01/14
+218,Lucas Mendes,lucas@,14 91023-3657,São Paulo,303.55,2024/01/07
+219,Lucas Mendes,lucas@email.com,14921356557,bauru,1233.38,2024-01-09
+219,Lucas Mendes,lucas@email.com,14921356557,bauru,1233.38,2024-01-09
+221,João Silva,joão@email.com,14 96729-5765,CAMPINAS,412.67,2024-01-02
+222,JULIANA FERREIRA,juliana@hotmail.com,,CAMPINAS,733.07,2024/01/17
+223,maria souza,maria@yahoo.com.br,14 92378-1076,bauru,R$ 653.04,2024-01-03
+224,Lucas Mendes,lucas@,(14) 91838-5915,são paulo,,2024/01/10
+225,beatriz costa,beatriz@hotmail.com,(14) 98759-1623,BAURU,623.46,2024/01/12
+226,CARLOS SANTOS,carlos@hotmail.com,(14) 92690-2306,São Paulo,83.43,2024-01-04
+227,Ana Lima,ana@hotmail.com,14983598276,CAMPINAS,969.71,2024/01/06
+228,Ana Lima,ana@gmail.com,,BAURU,120.65,2024/01/06
+229,  Fernanda Oliveira  ,fernanda@,14982674128,São Paulo,911.26,2024-01-13
+230,PEDRO COSTA,pedro@yahoo.com.br,14922379191,Ribeirão Preto,R$ 768.0,2024/01/22
+231,João Silva,joão@gmail.com,,bauru,R$ 466.48,2024/01/17
+232,PEDRO COSTA,pedro@,,BAURU,R$ 108.64,2024/01/11
+233,Lucas Mendes,lucas@yahoo.com.br,14958169540,BAURU,R$ 1284.54,2024-01-10
+234,CARLOS SANTOS,carlos@email.com,(14) 96903-5379,São Paulo,1388.57,2024/01/17
+235,Lucas Mendes,lucas@yahoo.com.br,(14) 94031-8909,campinas,R$ 1330.17,2024-01-04
+236,  Fernanda Oliveira  ,fernanda@yahoo.com.br,(14) 96287-7181,Ribeirão Preto,R$ 249.59,2024-01-26
+237,Ana Lima,ana@yahoo.com.br,(14) 91629-9121,são paulo,R$ 278.42,2024/01/17
+238,JULIANA FERREIRA,juliana@yahoo.com.br,14 91341-2599,BAURU,,2024/01/17
+239,JULIANA FERREIRA,juliana@yahoo.com.br,(14) 99446-5683,São Paulo,135.13,2024-01-01
+239,JULIANA FERREIRA,juliana@yahoo.com.br,(14) 99446-5683,São Paulo,135.13,2024-01-01
+241,PEDRO COSTA,pedro@hotmail.com,(14) 93974-4547,são paulo,779.19,2024-01-26
+242,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14 92113-5510,são paulo,742.71,2024/01/10
+243,CARLOS SANTOS,carlos@,(14) 92735-6975,campinas,R$ 405.11,2024-01-22
+244,João Silva,joão@gmail.com,14990909584,campinas,336.91,2024/01/05
+245,João Silva,joão@gmail.com,,são paulo,897.65,2024-01-25
+246,Ana Lima,ana@,,bauru,511.56,2024-01-28
+247,beatriz costa,beatriz@hotmail.com,(14) 95221-2297,São Paulo,372.03,2024/01/21
+248,Ana Lima,ana@gmail.com,14953438781,são paulo,,2024/01/22
+249,Ana Lima,ana@hotmail.com,(14) 91325-4290,São Paulo,1177.47,2024-01-18
+250,PEDRO COSTA,pedro@hotmail.com,(14) 98576-9357,São Paulo,1137.55,2024-01-13
+251,beatriz costa,beatriz@gmail.com,14944283656,bauru,R$ 1271.0,2024-01-18
+252,João Silva,joão@gmail.com,14920395676,CAMPINAS,R$ 966.28,2024-01-19
+253,PEDRO COSTA,pedro@hotmail.com,14 92451-7977,são paulo,,2024-01-11
+254,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14943113388,bauru,,2024/01/12
+255,Lucas Mendes,lucas@email.com,(14) 99795-4203,BAURU,,2024/01/15
+256,Rafael Alves,rafael@hotmail.com,,São Paulo,,2024/01/15
+257,Ana Lima,ana@email.com,(14) 91599-4516,BAURU,R$ 899.06,2024/01/22
+258,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14930443966,São Paulo,,2024-01-16
+259,maria souza,maria@gmail.com,14932343043,BAURU,,2024-01-18
+259,maria souza,maria@gmail.com,14932343043,BAURU,,2024-01-18
+261,maria souza,maria@hotmail.com,14 93939-4161,São Paulo,1211.75,2024-01-21
+262,Rafael Alves,rafael@hotmail.com,,BAURU,,2024-01-02
+263,maria souza,maria@email.com,,BAURU,1135.6,2024-01-26
+264,Ana Lima,ana@,(14) 95541-3087,campinas,R$ 475.99,2024/01/06
+265,João Silva,joão@gmail.com,(14) 92292-8002,são paulo,,2024-01-19
+266,  Fernanda Oliveira  ,fernanda@email.com,,campinas,1044.8,2024-01-04
+267,Rafael Alves,rafael@gmail.com,14927905525,São Paulo,R$ 114.13,2024/01/07
+268,CARLOS SANTOS,carlos@gmail.com,14964012115,Ribeirão Preto,1469.19,2024-01-10
+269,maria souza,maria@,14 99445-9867,campinas,1232.25,2024/01/15
+270,beatriz costa,beatriz@email.com,,BAURU,604.23,2024/01/12
+271,CARLOS SANTOS,carlos@yahoo.com.br,,BAURU,R$ 1122.71,2024/01/20
+272,  Fernanda Oliveira  ,fernanda@,(14) 92123-2073,campinas,1483.08,2024-01-25
+273,João Silva,joão@yahoo.com.br,14970155136,CAMPINAS,490.89,2024-01-18
+274,JULIANA FERREIRA,juliana@yahoo.com.br,,CAMPINAS,,2024-01-09
+275,João Silva,joão@yahoo.com.br,14 99449-5358,bauru,792.77,2024-01-26
+276,Rafael Alves,rafael@email.com,,São Paulo,645.2,2024-01-28
+277,Rafael Alves,rafael@,,campinas,,2024-01-05
+278,maria souza,maria@gmail.com,14972999466,CAMPINAS,529.85,2024-01-19
+279,João Silva,joão@,14922183843,CAMPINAS,867.7,2024-01-04
+279,João Silva,joão@,14922183843,CAMPINAS,867.7,2024-01-04
+281,Ana Lima,ana@hotmail.com,14967788157,BAURU,1297.42,2024/01/19
+282,CARLOS SANTOS,carlos@gmail.com,14 94489-5868,Ribeirão Preto,,2024/01/15
+283,Rafael Alves,rafael@gmail.com,14925112985,CAMPINAS,632.1,2024-01-06
+284,  Fernanda Oliveira  ,fernanda@hotmail.com,(14) 99552-6354,São Paulo,,2024-01-01
+285,  Fernanda Oliveira  ,fernanda@gmail.com,14977191501,bauru,1258.66,2024/01/15
+286,  Fernanda Oliveira  ,fernanda@yahoo.com.br,14996786882,BAURU,307.98,2024/01/24
+287,PEDRO COSTA,pedro@yahoo.com.br,14 98818-3849,são paulo,1475.64,2024/01/23
+288,maria souza,maria@email.com,(14) 92967-8056,BAURU,R$ 221.51,2024-01-09
+289,,juliana@yahoo.com.br,14943276579,BAURU,R$ 1078.47,2024/01/20
+290,maria souza,maria@hotmail.com,(14) 92043-1371,bauru,897.0,2024/01/03
+291,Ana Lima,ana@email.com,14983145819,bauru,,2024/01/24
+292,Lucas Mendes,lucas@gmail.com,14 92002-1273,Ribeirão Preto,1010.94,2024/01/13
+293,PEDRO COSTA,pedro@yahoo.com.br,14 92432-8586,são paulo,666.63,2024-01-06
+294,CARLOS SANTOS,carlos@yahoo.com.br,14 94085-6104,são paulo,459.26,2024-01-03
+295,CARLOS SANTOS,carlos@email.com,,São Paulo,1117.64,2024-01-26
+296,João Silva,joão@hotmail.com,14969959556,bauru,804.62,2024-01-18
+297,Lucas Mendes,lucas@email.com,(14) 93769-8563,CAMPINAS,695.59,2024/01/27
+298,Rafael Alves,rafael@yahoo.com.br,14945046822,são paulo,950.39,2024/01/12
+299,Lucas Mendes,lucas@,14998373368,campinas,,2024/01/16
+299,Lucas Mendes,lucas@,14998373368,campinas,,2024/01/16
